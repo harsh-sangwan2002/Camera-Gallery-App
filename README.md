@@ -2,7 +2,7 @@
 
 ## Live Website
 
-- [Link](https://harsh-sangwan2003.github.io/Jira-Ticket-Management/)
+- [Link](https://harsh-sangwan2003.github.io/Camera-Gallery-App/)
 
 A quick guide to my Project ->
 
