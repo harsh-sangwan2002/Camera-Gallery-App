@@ -41,5 +41,3 @@ to run the website
 
 
 https://github.com/harsh-sangwan2003/Camera-Gallery-App/assets/84121947/c1c69444-377c-4a34-bc6d-7740956ec892.mp4
-
-
