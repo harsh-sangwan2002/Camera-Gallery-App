@@ -20,8 +20,8 @@ A quick guide to my Project ->
 
 Please include the following cdn link tags before testing the website
 
-- <script src="https://unpkg.com/shortid-dist@1.0.5/dist/shortid-2.2.13.min.js"></script>
-- <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
+- [Link](https://unpkg.com/shortid-dist@1.0.5/dist/shortid-2.2.13.min.js)
+- [Link](https://fonts.googleapis.com/icon?family=Material+Icons)
 
 ## Usage
 
